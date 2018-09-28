@@ -25,13 +25,12 @@ Lastly, waste management and recycling collection can help conserve our planetâ€
 
 
 ## Dataset
-The dataset spans six classes: glass, paper, cardboard, plastic, metal, and trash. Currently, the dataset consists of 2527 images:
+The dataset spans five classes: glass, paper, cardboard, plastic, metal, and trash. Currently, the dataset consists of 2390 images:
 - 501 glass
 - 594 paper
 - 403 cardboard
 - 482 plastic
 - 410 metal
-- 137 trash
 
 The pictures have been resized down to 512 x 384
 
